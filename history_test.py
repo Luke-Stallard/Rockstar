@@ -15,3 +15,4 @@ history = [
 print(history[0]["opponent"])
 print(history[-1])
 print(history[-1]["opponent"])
+
